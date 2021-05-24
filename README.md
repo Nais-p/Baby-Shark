@@ -11,10 +11,10 @@ L'objectif de ce projet était d'écrire notre propre version (simplifiée) de l
 |            ![](https://i.imgur.com/URLBWhV.png)             |                                              ![](https://i.imgur.com/67w9NKD.png)                                              |
 
 Option de changement d'utilisateur avec Whoami. Dans le cas comme ci dessous, où l'utilisateur demandé n'existe pas nous obtenons le message d'erreur `unknoxn user`.
-| ![](https://i.imgur.com/4nc7auW.png) | ![](https://i.imgur.com/FM429Ml.png) |
+|  ![](https://i.imgur.com/FM429Ml.png)  |  ![](https://i.imgur.com/4nc7auW.png) |
 | ------------------------------------ | ------------------------------------ |
    
-   
+  
     
 En revanche dans le cas où l'utilisateur demandé est bien existant nous avons en retour, le nom de l'utilisateur. Par ailleurs, l'accès aux fonctionnalités  accordées par le biais de l'utilisation de `sudo` est bien protégé car on peut y accéder qu'une fois notre mot de passe utilisateur (celui demandé pour utiliser le véritable sudo) saisi.
 
