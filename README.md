@@ -10,7 +10,7 @@ L'objectif de ce projet était d'écrire notre propre version (simplifiée) de l
 | Sans sudo nous avons en retour le nom de notre utilisateur. | Dans le cas où nous faisons notre sudo soit `./Baby_shark` et whoami nous obtenons root nous sommes donc en super utilisateur. |
 |            ![](https://i.imgur.com/URLBWhV.png)             |                                              ![](https://i.imgur.com/67w9NKD.png)                                              |
 
-Option de changement d'utilisateur avec Whoami. Dans le cas comme ci dessous, où l'utilisateur demandé n'existe pas nous obtenons le message d'erreur `unknoxn user`.
+Option de changement d'utilisateur avec Whoami. Dans le cas comme ci dessous, où l'utilisateur demandé n'existe pas nous obtenons le message d'erreur `unknown user`.
 |  ![](https://i.imgur.com/FM429Ml.png)  |  ![](https://i.imgur.com/4nc7auW.png) |
 | ------------------------------------ | ------------------------------------ |
    
